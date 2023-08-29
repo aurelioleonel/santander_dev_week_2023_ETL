@@ -1,0 +1,7 @@
+*.pyc
+.git
+.idea
+.rar
+.ipynb_checkpoints
+__pycache__
+venv
