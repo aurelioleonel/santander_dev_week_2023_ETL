@@ -1,4 +1,4 @@
-# Projeto ETL
+# Explorando ETL com Python
 # Santader Dev Week 2023
 # Marcos Aurélio Leonel
 

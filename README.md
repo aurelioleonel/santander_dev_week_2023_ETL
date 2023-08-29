@@ -1,3 +1,5 @@
+### Explorando ETL com Python
+
 Este projeto exemplifica um processo de extração, transformação e carregamento (ETL) de dados utilizando Python. O objetivo é realizar a leitura de um arquivo CSV contendo informações de clientes, aplicar transformações nestes dados e convertê-los para o formato JSON.
 
 Inicialmente o arquivo CSV é lido utilizando a biblioteca Pandas, armazenando os dados em um DataFrame. Esta etapa representa a extração dos dados da fonte CSV.
